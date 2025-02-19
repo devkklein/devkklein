@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on a better opensource Scolia alternative .<br>Im 20 years old <br>i started  deveoping full stacks when i was 14 <br>Searching cool peaople to make some cool stuff
+Im currently working on a better opensource Scolia alternative .<br>Im 20 years old <br>i started  deveoping when i was 14 <br>Searching cool peaople to make some cool stuff
 
 
 ## 🌐 Socials:
